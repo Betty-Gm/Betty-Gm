@@ -9,9 +9,15 @@ console-based systems, GUI applications, and web development fundamentals.
 Addis Ababa University (AAU) — Computer Science
 
 ## 🛠️ Tech Stack
-**Languages:** C++ · Java · JavaScript · SQL
-**Frontend:** HTML · CSS · Tailwind CSS
-**Tools:** Git · GitHub · VS Code
+
+### 💻 Languages
+C++ · Java · JavaScript · SQL
+
+### 🎨 Frontend
+HTML · CSS · Tailwind CSS
+
+### 🧰 Tools
+Git · GitHub · VS Code
 
 ## 🚀 What I'm Working On
 - Exam Management System (EMS) at Addis Ababa University
